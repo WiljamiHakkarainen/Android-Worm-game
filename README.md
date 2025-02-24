@@ -1,5 +1,5 @@
 # Android-Worm-game
-React Native + typescript worm game, that takes the high scores through a backend in vercel cloud into a firebase using HTTP Post and Get. The game uses swipe controls and is downloadable on any android with these instructions:
+React Native + typescript worm game, that takes the high scores through a JavaScript backend in vercel cloud into a firebase using HTTP Post and Get. The game uses swipe controls and is downloadable on any android with these instructions:
 - make an expo account
 - Navigate in your terminal to the game folder and run these commands:
 - npm install -g eas-cli
